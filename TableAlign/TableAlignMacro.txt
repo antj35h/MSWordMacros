@@ -1,0 +1,12 @@
+Sub TableAlign()
+'
+' Macro1 Macro
+'
+'
+    Selection.Tables(1).AutoFitBehavior (wdAutoFitFixed)
+    Selection.Tables(1).Columns(1).PreferredWidthType = wdPreferredWidthPoints
+    Selection.Tables(1).Columns(1).PreferredWidth = CentimetersToPoints(10)
+    Selection.Tables(1).Columns(2).PreferredWidth = CentimetersToPoints(2.5)
+    Selection.Tables(1).Columns(3).PreferredWidth = CentimetersToPoints(0.5)
+    Selection.Tables(1).Columns(4).PreferredWidth = CentimetersToPoints(2.5)
+End Sub
