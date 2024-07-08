@@ -8,7 +8,31 @@
 
 To create a macro, follow these steps
 
-## Step 1 
+## If you don't see/have the developer tab
+
+1. Go to File > Options > Customize Ribbon
+2. On the right hand side box, under main tabs, activate Developer tab.
+
+## If you have the develope tab
+
+1. Go to the Developer tab
+2. Click 'Record Macro'
+3. Fill in the dialog box accordingly
+4. And perform your repetitive tasks to record the macro
+5. Once you have performed your task, to stop recording;
+	- ![](x.%20assets/fig4.png)
+	- Or, go to Developer > Stop Recording
+
+## How to add the codes in the list below
+
+1. Make an empty Macro
+2. Go to Developer > Visual Basic
+3. On the left hand side, in the folder hierarchy, locate 'Modules'
+4. Under which, there would be a file similar to the name - 'NewMacros'
+5. Click on that file
+6. The code will look something like this
+	![](x.%20assets/fig5.png)
+7. Replace the code in the sample macro you made with the code provided in the lists.
 
 # List of Macros
 
