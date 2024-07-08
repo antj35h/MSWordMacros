@@ -1,6 +1,6 @@
 # Step 1
 
-Here is the code - %% link for comment %%
+Here is the [code](TableAlignMacro.txt)
 
 # Step 2
 
@@ -20,13 +20,13 @@ Here is the code - %% link for comment %%
 	- the first column will be set to 10cm, 
 	- the second will be set to 2.5cm and so on...
 - So the table will look like this (with sample data)
-	- ![](90%20Others/97%20Uncategorised/x.%20assets/Pasted%20image%2020240708163122.png)
+	- ![](x.%20assets/fig1.png)
 
 # Examples
 
 **Let's take a look at a bigger table**
 
-![](90%20Others/97%20Uncategorised/x.%20assets/Pasted%20image%2020240708163404.png)
+![](x.%20assets/fig2.png)
 
 Clicking the macro with the code mentioned above will give an <font color=red><b>error</b></font>, because this table has 6 columns as opposed to the 4 columns the macro will work for.
 
@@ -50,5 +50,5 @@ Code to fix the table in this example:
 
 and this will fix the table to give:
 
-![](90%20Others/97%20Uncategorised/x.%20assets/Pasted%20image%2020240708163834.png)
+![](x.%20assets/fig3.png)
 
