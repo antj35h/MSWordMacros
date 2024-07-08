@@ -6,4 +6,4 @@
 
 # MS Word Macros
 
-1. Tables Alignment
+1. [Tables Alignment](TableAlign/readme.md)
