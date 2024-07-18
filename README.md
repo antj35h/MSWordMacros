@@ -13,7 +13,7 @@ To create a macro, follow these steps
 1. Go to File > Options > Customize Ribbon
 2. On the right hand side box, under main tabs, activate Developer tab.
 
-## If you have the develope tab
+## If you have the developer tab
 
 1. Go to the Developer tab
 2. Click 'Record Macro'
